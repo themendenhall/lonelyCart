@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Demo.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{9B10F465-EF15-420B-B00A-DBD270433DEA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Demo.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\DemoEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{1F194F95-E558-43C8-A335-AD5EF61D42BA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Demo">
+			<UniqueIdentifier>{7156BDC7-0656-449B-92CE-F0D2E4D85102}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Demo\Demo.Build.cs">
+			<Filter>Source\Demo</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Demo\Demo.cpp">
+			<Filter>Source\Demo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Demo\Demo.h">
+			<Filter>Source\Demo</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Demo\DemoCharacter.cpp">
+			<Filter>Source\Demo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Demo\DemoCharacter.h">
+			<Filter>Source\Demo</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Demo\DemoGameMode.cpp">
+			<Filter>Source\Demo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Demo\DemoGameMode.h">
+			<Filter>Source\Demo</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Demo\DemoHUD.cpp">
+			<Filter>Source\Demo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Demo\DemoHUD.h">
+			<Filter>Source\Demo</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Demo\DemoProjectile.cpp">
+			<Filter>Source\Demo</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Demo\DemoProjectile.h">
+			<Filter>Source\Demo</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
