@@ -1,4 +1,4 @@
-﻿Log file open, 01/02/18 18:40:51
+﻿Log file open, 01/03/18 15:34:45
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Demo
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1409096199) SRandInit(1409096199).
+LogInit: Display: RandInit(-63345423) SRandInit(-63345423).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 32 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.358757
+LogStats: Stats thread started at 0.354585
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -77,6 +77,88 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Warning: Module file D:/Documents/Git/lonelyCart/Demo/Binaries/Win64/UE4Editor-Demo-7301.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Warning: Incompatible or missing module: UE4Editor-Demo.dll
+Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe Demo Development Win64 -project="D:/Documents/Git/lonelyCart/Demo/Demo.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build.
+Creating makefile for Demo (ini files are newer than UBTMakefile)
+@progress push 5%
+@progress pop
+Target is up to date
+Total build time: 4.09 seconds (NoActionsToExecute executor: 0.00 seconds)
 LogModuleManager: Display: Found up-to-date module file D:/Documents/Git/lonelyCart/Demo/Binaries/Win64/UE4Editor-Demo.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -192,181 +274,1311 @@ LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line: -EpicPortal 
+LogInit: Command line:  
 LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.01.02-23.40.52:454][  0]LogInit: Selected Device Profile: [Windows]
-[2018.01.02-23.40.52:454][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.01.02-23.40.52:460][  0]LogInit: Computer: DESKTOP-0I034II
-[2018.01.02-23.40.52:460][  0]LogInit: User: mende
-[2018.01.02-23.40.52:460][  0]LogInit: CPU Page size=4096, Cores=10
-[2018.01.02-23.40.52:460][  0]LogInit: High frequency timer resolution =3.234376 MHz
-[2018.01.02-23.40.52:461][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
-[2018.01.02-23.40.52:461][  0]LogMemory: Platform Memory Stats for Windows
-[2018.01.02-23.40.52:461][  0]LogMemory: Process Physical Memory: 277.49 MB used, 277.49 MB peak
-[2018.01.02-23.40.52:461][  0]LogMemory: Process Virtual Memory: 272.80 MB used, 272.80 MB peak
-[2018.01.02-23.40.52:461][  0]LogMemory: Physical Memory: 5836.01 MB used,  26609.95 MB free, 32445.96 MB total
-[2018.01.02-23.40.52:461][  0]LogMemory: Virtual Memory: 691.29 MB used,  26609.95 MB free, 134217728.00 MB total
-[2018.01.02-23.40.52:575][  0]LogInit: Using OS detected language (en-US).
-[2018.01.02-23.40.52:575][  0]LogInit: Using OS detected locale (en-US).
-[2018.01.02-23.40.52:577][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.01.02-23.40.52:911][  0]LogInit: Setting process to per monitor DPI aware
-[2018.01.02-23.40.53:116][  0]LogD3D11RHI: D3D11 adapters:
-[2018.01.02-23.40.53:145][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
-[2018.01.02-23.40.53:145][  0]LogD3D11RHI:       11132/0/16222 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2018.01.02-23.40.53:147][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.01.02-23.40.53:147][  0]LogD3D11RHI:       0/0/16222 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.01.02-23.40.53:147][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.01.02-23.40.53:153][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.01.02-23.40.53:153][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
-[2018.01.02-23.40.53:153][  0]LogWindows: EnumDisplayDevices:
-[2018.01.02-23.40.53:153][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
-[2018.01.02-23.40.53:153][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
-[2018.01.02-23.40.53:153][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
-[2018.01.02-23.40.53:153][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
-[2018.01.02-23.40.53:153][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.01.02-23.40.53:153][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
-[2018.01.02-23.40.53:153][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.01.02-23.40.53:153][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.01.02-23.40.53:153][  0]LogRHI: Texture pool is 7792 MB (70% of 11132 MB)
-[2018.01.02-23.40.53:171][  0]LogD3D11RHI: Async texture creation enabled
-[2018.01.02-23.40.53:190][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.01.02-23.40.53:282][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/Documents/Git/lonelyCart/Demo/Intermediate/Shaders/WorkingDirectory/5952/).
-[2018.01.02-23.40.53:282][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mende/AppData/Local/Temp/UnrealShaderWorkingDir/736319B84607E214D3B728AAF90EFB18/'.
-[2018.01.02-23.40.53:282][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.01.02-23.40.53:998][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.01.02-23.40.54:038][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.01.02-23.40.54:077][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.01.02-23.40.54:117][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.01.02-23.40.54:157][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.01.02-23.40.54:198][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.01.02-23.40.54:238][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.01.02-23.40.54:278][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.01.02-23.40.54:313][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.01.02-23.40.54:351][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.01.02-23.40.54:391][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.01.02-23.40.54:429][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.01.02-23.40.54:468][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.01.02-23.40.54:506][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.01.02-23.40.54:583][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.01.02-23.40.54:583][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.01.02-23.40.54:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.01.02-23.40.54:652][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.01.02-23.40.54:727][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.01.02-23.40.54:748][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.01.02-23.40.54:787][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.01.02-23.40.54:826][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.01.02-23.40.54:865][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.01.02-23.40.54:903][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.01.02-23.40.54:903][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.01.02-23.40.55:252][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.01.02-23.40.55:305][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/mende/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.01.02-23.40.55:305][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mende/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.01.02-23.40.55:305][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/Git/lonelyCart/Demo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.01.02-23.40.55:305][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.01.02-23.40.55:305][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/Git/lonelyCart/Demo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.01.02-23.40.55:306][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.01.02-23.40.55:318][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.01.02-23.40.55:330][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mende/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.01.02-23.40.55:338][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.01.02-23.40.55:338][  0]LogSlate: Using Freetype 2.6.0
-[2018.01.02-23.40.55:339][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.01.02-23.40.55:339][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.01.02-23.40.55:615][  0]LogInit: Selected Device Profile: [Windows]
-[2018.01.02-23.40.55:864][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.01.02-23.40.55:895][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.01.02-23.40.55:895][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.01.02-23.40.55:895][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.01.02-23.40.55:895][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.01.02-23.40.55:895][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.01.02-23.40.55:917][  0]LogNetVersion: Demo , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4278471600)
-[2018.01.02-23.40.56:043][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
-[2018.01.02-23.40.56:396][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.039097 seconds
-[2018.01.02-23.40.56:401][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2018.01.02-23.40.56:401][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
-[2018.01.02-23.40.56:401][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.01.02-23.40.56:444][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2018.01.02-23.40.58:596][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.01.02-23.40.58:634][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.01.02-23.40.59:331][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.01.02-23.40.59:639][  0]SourceControl: Source control is disabled
-[2018.01.02-23.40.59:639][  0]SourceControl: Source control is disabled
-[2018.01.02-23.40.59:679][  0]SourceControl: Source control is disabled
-[2018.01.02-23.40.59:719][  0]SourceControl: Source control is disabled
-[2018.01.02-23.41.00:329][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.01.02-23.41.00:533][  0]LogOcInput: OculusInput pre-init called
-[2018.01.02-23.41.00:735][  0]LogEngine: Initializing Engine...
-[2018.01.02-23.41.00:737][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.01.02-23.41.00:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.01.02-23.41.00:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.01.02-23.41.00:976][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.01.02-23.41.00:990][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.01.02-23.41.01:021][  0]LogInit: FAudioDevice initialized.
-[2018.01.02-23.41.01:077][  0]LogDerivedDataCache: Saved boot cache 0.06s 79MB C:/Users/mende/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.01.02-23.41.01:082][  0]LogInit: Texture streaming: Enabled
-[2018.01.02-23.41.01:158][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.01.02-23.41.01:257][  0]LogInit: Transaction tracking system initialized
-[2018.01.02-23.41.01:496][  0]BlueprintLog: New page: Editor Load
-[2018.01.02-23.41.02:247][  0]LocalizationService: Localization service is disabled
-[2018.01.02-23.41.02:821][  0]LogConsoleResponse: Display: 
-[2018.01.02-23.41.02:945][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.01.02-23.41.02:945][  0]LogCook: Display: Mobile HDR setting 1
-[2018.01.02-23.41.02:945][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.01.02-23.41.03:856][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Git/lonelyCart/Demo/Content/' took 0.01s
-[2018.01.02-23.41.03:856][  0]SourceControl: Source control is disabled
-[2018.01.02-23.41.03:856][  0]Cmd: MAP LOAD FILE="D:/Documents/Git/lonelyCart/Demo/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.01.02-23.41.03:856][  0]LightingResults: New page: Lighting Build
-[2018.01.02-23.41.03:888][  0]MapCheck: New page: Map Check
-[2018.01.02-23.41.03:888][  0]LightingResults: New page: Lighting Build
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
-[2018.01.02-23.41.04:030][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
-[2018.01.02-23.41.04:844][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
-[2018.01.02-23.41.04:844][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
-[2018.01.02-23.41.04:844][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
-[2018.01.02-23.41.04:844][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
-[2018.01.02-23.41.04:844][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
-[2018.01.02-23.41.04:845][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
-[2018.01.02-23.41.04:845][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
-[2018.01.02-23.41.04:845][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
-[2018.01.02-23.41.04:845][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
-[2018.01.02-23.41.04:845][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
-[2018.01.02-23.41.04:845][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.01.02-23.41.04:853][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.01.02-23.41.04:875][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.01.02-23.41.04:915][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.865ms to complete.
-[2018.01.02-23.41.04:915][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.059
-[2018.01.02-23.41.05:045][  0]LogCollectionManager: Loaded 0 collections in 0.001083 seconds
-[2018.01.02-23.41.05:125][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Git/lonelyCart/Demo/Saved/Collections/' took 0.01s
-[2018.01.02-23.41.05:125][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Git/lonelyCart/Demo/Content/Developers/mende/Collections/' took 0.01s
-[2018.01.02-23.41.05:125][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Git/lonelyCart/Demo/Content/Collections/' took 0.01s
-[2018.01.02-23.41.05:125][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.01.02-23.41.05:133][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2367 classes and 521 folders.
-[2018.01.02-23.41.05:184][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.01.02-23.41.05:213][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.01.02-23.41.05:250][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.01.02-23.41.05:300][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.01.02-23.41.05:301][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.01.02-23.41.05:306][  0]LogSlate: Took 0.001428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.01.02-23.41.05:454][  0]LogRenderer: Reallocating scene render targets to support 1420x792 Format 10 NumSamples 1 (Frame:1).
-[2018.01.02-23.41.05:588][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.01.02-23.41.05:588][  0]LogLoad: (Engine Initialization) Total time: 15.51 seconds
-[2018.01.02-23.41.05:588][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.01.02-23.41.05:588][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2018.01.02-23.41.05:597][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.01.02-23.41.05:612][  0]LogAssetRegistry: Asset discovery search completed in 9.5907 seconds
-[2018.01.02-23.41.05:614][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.01.02-23.41.05:614][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
-[2018.01.02-23.41.05:616][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.03-20.34.55:856][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.03-20.34.55:857][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.03-20.34.55:865][  0]LogInit: Computer: DESKTOP-0I034II
+[2018.01.03-20.34.55:865][  0]LogInit: User: mende
+[2018.01.03-20.34.55:865][  0]LogInit: CPU Page size=4096, Cores=10
+[2018.01.03-20.34.55:865][  0]LogInit: High frequency timer resolution =3.234376 MHz
+[2018.01.03-20.34.55:865][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2018.01.03-20.34.55:865][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.03-20.34.55:865][  0]LogMemory: Process Physical Memory: 281.66 MB used, 281.66 MB peak
+[2018.01.03-20.34.55:865][  0]LogMemory: Process Virtual Memory: 273.30 MB used, 273.30 MB peak
+[2018.01.03-20.34.55:865][  0]LogMemory: Physical Memory: 6213.35 MB used,  26232.61 MB free, 32445.96 MB total
+[2018.01.03-20.34.55:865][  0]LogMemory: Virtual Memory: 752.98 MB used,  26232.61 MB free, 134217728.00 MB total
+[2018.01.03-20.34.55:982][  0]LogInit: Using OS detected language (en-US).
+[2018.01.03-20.34.55:982][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.03-20.34.55:984][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.03-20.34.56:309][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.03-20.34.56:504][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.03-20.34.56:545][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.01.03-20.34.56:545][  0]LogD3D11RHI:       11132/0/16222 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.03-20.34.56:547][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.03-20.34.56:547][  0]LogD3D11RHI:       0/0/16222 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.03-20.34.56:547][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.03-20.34.56:554][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.03-20.34.56:554][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.03-20.34.56:554][  0]LogWindows: EnumDisplayDevices:
+[2018.01.03-20.34.56:554][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.01.03-20.34.56:554][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2018.01.03-20.34.56:554][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.03-20.34.56:555][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.01.03-20.34.56:555][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.03-20.34.56:555][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.01.03-20.34.56:555][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.03-20.34.56:555][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.03-20.34.56:555][  0]LogRHI: Texture pool is 7792 MB (70% of 11132 MB)
+[2018.01.03-20.34.56:573][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.03-20.34.56:596][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.03-20.34.56:688][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (D:/Documents/Git/lonelyCart/Demo/Intermediate/Shaders/WorkingDirectory/22960/).
+[2018.01.03-20.34.56:688][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mende/AppData/Local/Temp/UnrealShaderWorkingDir/33A4FF144111A91F34970E8AD4C56061/'.
+[2018.01.03-20.34.56:688][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.03-20.34.57:404][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.03-20.34.57:445][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.03-20.34.57:485][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.03-20.34.57:525][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.03-20.34.57:566][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.03-20.34.57:606][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.03-20.34.57:647][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.03-20.34.57:687][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.03-20.34.57:722][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.03-20.34.57:761][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.03-20.34.57:801][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.03-20.34.57:840][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.03-20.34.57:880][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.03-20.34.57:919][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.03-20.34.57:999][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.03-20.34.57:999][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.03-20.34.58:039][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.03-20.34.58:070][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.03-20.34.58:144][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.03-20.34.58:165][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.03-20.34.58:204][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.03-20.34.58:244][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.03-20.34.58:283][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.03-20.34.58:322][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.03-20.34.58:322][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.03-20.34.58:679][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.03-20.34.58:732][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/mende/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.03-20.34.58:732][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mende/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.03-20.34.58:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/Git/lonelyCart/Demo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.03-20.34.58:732][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.03-20.34.58:733][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/Git/lonelyCart/Demo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.03-20.34.58:733][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.03-20.34.58:745][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.03-20.34.58:757][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mende/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.03-20.34.58:765][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.03-20.34.58:765][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.03-20.34.58:766][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.03-20.34.58:766][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.03-20.34.59:050][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.03-20.34.59:303][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.03-20.34.59:335][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.03-20.34.59:335][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.03-20.34.59:335][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.03-20.34.59:335][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.03-20.34.59:335][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.03-20.34.59:357][  0]LogNetVersion: Demo , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4278471600)
+[2018.01.03-20.34.59:484][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2018.01.03-20.34.59:829][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.035458 seconds
+[2018.01.03-20.34.59:833][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.03-20.34.59:833][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.03-20.34.59:833][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.03-20.34.59:875][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.03-20.35.01:979][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.03-20.35.02:014][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.03-20.35.02:698][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.03-20.35.03:015][  0]SourceControl: Source control is disabled
+[2018.01.03-20.35.03:015][  0]SourceControl: Source control is disabled
+[2018.01.03-20.35.03:056][  0]SourceControl: Source control is disabled
+[2018.01.03-20.35.03:097][  0]SourceControl: Source control is disabled
+[2018.01.03-20.35.03:720][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.03-20.35.03:927][  0]LogOcInput: OculusInput pre-init called
+[2018.01.03-20.35.04:133][  0]LogEngine: Initializing Engine...
+[2018.01.03-20.35.04:135][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.03-20.35.04:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.03-20.35.04:278][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.03-20.35.04:377][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.03-20.35.04:391][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.03-20.35.04:421][  0]LogInit: FAudioDevice initialized.
+[2018.01.03-20.35.04:478][  0]LogDerivedDataCache: Saved boot cache 0.06s 79MB C:/Users/mende/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.03-20.35.04:484][  0]LogInit: Texture streaming: Enabled
+[2018.01.03-20.35.04:562][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.03-20.35.04:664][  0]LogInit: Transaction tracking system initialized
+[2018.01.03-20.35.04:907][  0]BlueprintLog: New page: Editor Load
+[2018.01.03-20.35.05:624][  0]LocalizationService: Localization service is disabled
+[2018.01.03-20.35.06:197][  0]LogConsoleResponse: Display: 
+[2018.01.03-20.35.06:324][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.03-20.35.06:324][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.03-20.35.06:324][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.03-20.35.07:239][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Git/lonelyCart/Demo/Content/' took 0.01s
+[2018.01.03-20.35.07:239][  0]SourceControl: Source control is disabled
+[2018.01.03-20.35.07:239][  0]Cmd: MAP LOAD FILE="D:/Documents/Git/lonelyCart/Demo/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.03-20.35.07:240][  0]LightingResults: New page: Lighting Build
+[2018.01.03-20.35.07:272][  0]MapCheck: New page: Map Check
+[2018.01.03-20.35.07:272][  0]LightingResults: New page: Lighting Build
+[2018.01.03-20.35.07:407][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.03-20.35.07:414][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.03-20.35.07:436][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.03-20.35.07:477][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.546ms to complete.
+[2018.01.03-20.35.07:477][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.238
+[2018.01.03-20.35.07:593][  0]LogCollectionManager: Loaded 0 collections in 0.001171 seconds
+[2018.01.03-20.35.07:665][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Git/lonelyCart/Demo/Saved/Collections/' took 0.01s
+[2018.01.03-20.35.07:665][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Git/lonelyCart/Demo/Content/Developers/mende/Collections/' took 0.01s
+[2018.01.03-20.35.07:665][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Git/lonelyCart/Demo/Content/Collections/' took 0.01s
+[2018.01.03-20.35.07:665][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.03-20.35.07:672][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2367 classes and 521 folders.
+[2018.01.03-20.35.07:723][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.03-20.35.07:753][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.03-20.35.07:788][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.03-20.35.07:845][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.03-20.35.07:846][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.03-20.35.07:850][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.03-20.35.07:924][  0]LogRenderer: Reallocating scene render targets to support 1420x792 Format 10 NumSamples 1 (Frame:1).
+[2018.01.03-20.35.08:077][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.03-20.35.08:077][  0]LogLoad: (Engine Initialization) Total time: 24.15 seconds
+[2018.01.03-20.35.08:077][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.03-20.35.08:078][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.03-20.35.08:087][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.03-20.35.08:106][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.03-20.35.08:203][  1]LogAssetRegistry: Asset discovery search completed in 8.7409 seconds
+[2018.01.03-20.35.08:205][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.03-20.35.08:205][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.01.03-20.35.13:044][553]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.03-20.35.16:602][975]Cmd: MAP LOAD FILE="D:/Documents/Git/lonelyCart/Demo/Content/StarterContent/Maps/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.03-20.35.16:608][975]LogSlate: Took 0.000529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.03-20.35.16:615][975]LightingResults: New page: Lighting Build
+[2018.01.03-20.35.16:616][975]LoadErrors: New page: Loading map: DemoMap.umap
+[2018.01.03-20.35.16:617][975]MapCheck: New page: Map Check
+[2018.01.03-20.35.16:617][975]LightingResults: New page: Lighting Build
+[2018.01.03-20.35.17:002][975]LogAIModule: Creating AISystem for world DemoMap
+[2018.01.03-20.35.17:060][975]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.03-20.35.17:097][975]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.03-20.35.17:148][975]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.225ms to complete.
+[2018.01.03-20.35.17:148][975]LogFileHelpers: Loading map 'DemoMap' took 0.547
+[2018.01.03-20.35.35:412][  5]Cmd: TRANSACTION UNDO
+[2018.01.03-20.35.35:412][  5]LogEditorTransaction: Undo Reset Scale
+[2018.01.03-20.35.35:450][  5]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.03-20.35.38:580][368]Cmd: TRANSACTION UNDO
+[2018.01.03-20.35.38:580][368]LogEditorTransaction: Undo Reset Rotation
+[2018.01.03-20.35.42:037][761]Cmd: TRANSACTION UNDO
+[2018.01.03-20.35.42:037][761]LogEditorTransaction: Undo Scale Actors
+[2018.01.03-20.35.42:529][807]Cmd: TRANSACTION UNDO
+[2018.01.03-20.35.42:530][807]LogEditorTransaction: Undo Reset Location
+[2018.01.03-20.35.48:665][527]Cmd: TRANSACTION UNDO
+[2018.01.03-20.35.48:665][527]LogEditorTransaction: Undo Scale Actors
+[2018.01.03-20.35.49:076][565]Cmd: TRANSACTION UNDO
+[2018.01.03-20.35.49:076][565]LogEditorTransaction: Undo Reset Scale
+[2018.01.03-20.36.10:052][ 50]Cmd: TRANSACTION UNDO
+[2018.01.03-20.36.10:052][ 50]LogEditorTransaction: Undo Brush Set
+[2018.01.03-20.36.44:952][ 68]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.01.03-20.36.45:037][ 69]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.01.03-20.36.45:100][ 70]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.01.03-20.36.45:199][ 73]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.01.03-20.36.45:253][ 74]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.01.03-20.36.45:320][ 76]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.01.03-20.36.45:375][ 77]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.01.03-20.36.45:454][ 78]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2018.01.03-20.36.56:276][107]LogActorFactory: Actor Factory created SM_BathroomMat
+[2018.01.03-20.37.01:626][729]LogActorFactory: Actor Factory created SM_BathroomMat
+[2018.01.03-20.37.03:720][973]Cmd: DELETE
+[2018.01.03-20.37.03:720][973]Cmd: ACTOR DELETE
+[2018.01.03-20.37.03:724][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.37.03:746][973]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.37.15:515][352]LogActorFactory: Actor Factory created SM_Carpet
+[2018.01.03-20.37.21:032][923]LogActorFactory: Actor Factory created SM_Carpet
+[2018.01.03-20.37.54:582][854]LogActorFactory: Actor Factory created SM_Table_01
+[2018.01.03-20.37.56:000][ 13]LogActorFactory: Actor Factory created SM_Table_01
+[2018.01.03-20.37.58:160][266]Cmd: DELETE
+[2018.01.03-20.37.58:160][266]Cmd: ACTOR DELETE
+[2018.01.03-20.37.58:163][266]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.37.58:183][266]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.01.03-20.37.59:011][361]LogActorFactory: Actor Factory created SM_Split_Bedside_Table_Drawer
+[2018.01.03-20.37.59:696][439]LogActorFactory: Actor Factory created SM_Split_Bedside_Table_Drawer
+[2018.01.03-20.37.59:996][470]Cmd: DELETE
+[2018.01.03-20.37.59:996][470]Cmd: ACTOR DELETE
+[2018.01.03-20.38.00:000][470]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.38.00:021][470]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.01.03-20.38.02:037][708]LogActorFactory: Actor Factory created SM_Table_04
+[2018.01.03-20.38.05:140][ 56]LogActorFactory: Actor Factory created SM_Table_04
+[2018.01.03-20.38.06:438][202]LogActorFactory: Actor Factory created SM_Table_05_Table_05
+[2018.01.03-20.38.07:206][281]LogActorFactory: Actor Factory created SM_Table_05_Table_05
+[2018.01.03-20.38.07:332][291]Cmd: DELETE
+[2018.01.03-20.38.07:332][291]Cmd: ACTOR DELETE
+[2018.01.03-20.38.07:336][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.38.07:356][291]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.01.03-20.38.08:415][414]LogActorFactory: Actor Factory created SM_TableRound
+[2018.01.03-20.38.09:236][494]LogActorFactory: Actor Factory created SM_TableRound
+[2018.01.03-20.38.09:321][499]Cmd: DELETE
+[2018.01.03-20.38.09:322][499]Cmd: ACTOR DELETE
+[2018.01.03-20.38.09:325][499]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.38.09:345][499]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.01.03-20.38.10:588][645]LogActorFactory: Actor Factory created SM_Table_Runner
+[2018.01.03-20.38.15:009][127]LogActorFactory: Actor Factory created SM_Table_Runner
+[2018.01.03-20.38.15:884][227]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.38.24:507][236]Cmd: MODE GRID=0
+[2018.01.03-20.38.45:740][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_5)
+[2018.01.03-20.38.52:099][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_Runner)
+[2018.01.03-20.38.55:025][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_5)
+[2018.01.03-20.38.57:676][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_01)
+[2018.01.03-20.39.00:173][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_7)
+[2018.01.03-20.39.33:634][196]Cmd: DELETE
+[2018.01.03-20.39.33:634][196]Cmd: ACTOR DELETE
+[2018.01.03-20.39.33:638][196]LogEditorActor: Deleted Actor: BP_Cabinet_02_C
+[2018.01.03-20.39.33:665][196]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.01.03-20.39.50:806][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_04)
+[2018.01.03-20.39.51:727][242]Cmd: DELETE
+[2018.01.03-20.39.51:727][242]Cmd: ACTOR DELETE
+[2018.01.03-20.39.51:732][242]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.39.51:761][242]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.01.03-20.39.52:195][293]LogEditorViewport: Clicking on Actor (LMB): BP_Cabinet_Office_01_C (BP_Cabinet_Office_01)
+[2018.01.03-20.40.03:784][563]LogEditorViewport: Clicking on Actor (LMB): BP_Cabinet_Office_01_C (BP_Cabinet_Office_01)
+[2018.01.03-20.40.04:533][649]Cmd: DELETE
+[2018.01.03-20.40.04:533][649]Cmd: ACTOR DELETE
+[2018.01.03-20.40.04:537][649]LogEditorActor: Deleted Actor: BP_Cabinet_Office_01_C
+[2018.01.03-20.40.04:568][649]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.01.03-20.40.05:010][701]LogEditorViewport: Clicking on Actor (LMB): BP_Cabinet_Office_02_C (BP_Cabinet_Office_02)
+[2018.01.03-20.40.49:561][688]Cmd: DELETE
+[2018.01.03-20.40.49:561][688]Cmd: ACTOR DELETE
+[2018.01.03-20.40.49:567][688]LogEditorActor: Deleted Actor: BP_CoffeeMachine_C
+[2018.01.03-20.40.49:618][688]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.01.03-20.41.02:441][144]Cmd: DELETE
+[2018.01.03-20.41.02:441][144]Cmd: ACTOR DELETE
+[2018.01.03-20.41.02:445][144]LogEditorActor: Deleted Actor: BP_MirrorCabinet_C
+[2018.01.03-20.41.02:472][144]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.01.03-20.41.19:780][ 95]LogActorFactory: Actor Factory created SM_KitchenCabinet_02
+[2018.01.03-20.41.20:574][175]LogActorFactory: Actor Factory created SM_KitchenCabinet_02
+[2018.01.03-20.41.22:400][374]LogActorFactory: Actor Factory created SM_KitchenCabinet_01
+[2018.01.03-20.41.23:318][461]LogActorFactory: Actor Factory created SM_KitchenCabinet_01
+[2018.01.03-20.41.24:949][637]LogActorFactory: Actor Factory created SM_KitchenCabinet_CornerRow
+[2018.01.03-20.41.26:366][733]LogActorFactory: Actor Factory created SM_KitchenCabinet_CornerRow
+[2018.01.03-20.42.14:214][119]LogEditorViewport: Clicking on Actor (LMB): BP_Kitchencounter_Island_C (BP_Kitchencounter_Island)
+[2018.01.03-20.42.24:666][314]LogEditorViewport: Clicking on Actor (LMB): BP_Cabinet_02_C (BP_Cabinet_02)
+[2018.01.03-20.42.37:234][735]LogEditorViewport: Clicking on Actor (LMB): BP_Cabinet_02_C (BP_Cabinet_02)
+[2018.01.03-20.42.56:599][908]LogEditorViewport: Clicking on Actor (LMB): BP_Cabinet_03_C (BP_Cabinet_03)
+[2018.01.03-20.42.57:523][ 11]Cmd: DELETE
+[2018.01.03-20.42.57:523][ 11]Cmd: ACTOR DELETE
+[2018.01.03-20.42.57:529][ 11]LogEditorActor: Deleted Actor: BP_Cabinet_03_C
+[2018.01.03-20.42.57:568][ 11]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.01.03-20.43.29:869][764]LogActorFactory: Actor Factory created SM_Breadholder
+[2018.01.03-20.43.31:165][905]LogActorFactory: Actor Factory created SM_Breadholder
+[2018.01.03-20.43.36:381][478]LogActorFactory: Actor Factory created SM_Cabinet_Hall
+[2018.01.03-20.43.38:300][666]LogActorFactory: Actor Factory created SM_Cabinet_Hall
+[2018.01.03-20.43.39:085][748]LogActorFactory: Actor Factory created SM_Cabinet_Hall
+[2018.01.03-20.43.42:394][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cabinet_Hall)
+[2018.01.03-20.43.42:979][174]Cmd: DELETE
+[2018.01.03-20.43.42:979][174]Cmd: ACTOR DELETE
+[2018.01.03-20.43.42:983][174]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.43.43:005][174]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.43.58:133][972]LogActorFactory: Actor Factory created SM_CuttingBoard
+[2018.01.03-20.44.01:914][401]LogActorFactory: Actor Factory created SM_CuttingBoard
+[2018.01.03-20.44.07:231][957]LogActorFactory: Actor Factory created SM_Curtains_Closed_02_SM
+[2018.01.03-20.44.12:670][501]LogActorFactory: Actor Factory created SM_Curtains_Closed_02_SM
+[2018.01.03-20.44.13:808][631]Cmd: DELETE
+[2018.01.03-20.44.13:808][631]Cmd: ACTOR DELETE
+[2018.01.03-20.44.13:812][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.44.13:834][631]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.44.15:192][789]LogActorFactory: Actor Factory created SM_Curtains_Opened_01
+[2018.01.03-20.44.18:172][107]LogActorFactory: Actor Factory created SM_Curtains_Opened_01
+[2018.01.03-20.44.24:620][862]Cmd: TRANSACTION UNDO
+[2018.01.03-20.44.24:620][862]LogEditorTransaction: Undo Rotate Actors
+[2018.01.03-20.44.41:497][804]Cmd: DELETE
+[2018.01.03-20.44.41:497][804]Cmd: ACTOR DELETE
+[2018.01.03-20.44.41:502][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.44.41:523][804]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.44.48:410][596]LogActorFactory: Actor Factory created SM_Fridge
+[2018.01.03-20.44.48:761][629]LogActorFactory: Actor Factory created SM_Fridge
+[2018.01.03-20.45.01:399][968]LogActorFactory: Actor Factory created SM_Kitchencounter_L_Counter_Tap
+[2018.01.03-20.45.02:111][ 40]LogActorFactory: Actor Factory created SM_Kitchencounter_L_Counter_Tap
+[2018.01.03-20.45.03:887][231]LogActorFactory: Actor Factory created SM_Kitchencounter_L_Counter_Top
+[2018.01.03-20.45.05:739][437]LogActorFactory: Actor Factory created SM_Kitchencounter_L_Counter_Top
+[2018.01.03-20.45.13:846][300]LogActorFactory: Actor Factory created SM_Kitchencounter_L_Counter_Corner
+[2018.01.03-20.45.18:245][753]LogActorFactory: Actor Factory created SM_Kitchencounter_L_Counter_Corner
+[2018.01.03-20.45.24:122][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Top)
+[2018.01.03-20.45.24:919][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Tap)
+[2018.01.03-20.45.38:183][ 49]LogActorFactory: Actor Factory created SM_Lamp_02
+[2018.01.03-20.45.40:801][310]LogActorFactory: Actor Factory created SM_Lamp_02
+[2018.01.03-20.45.42:118][462]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.45.47:590][101]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Kitchencounter_L_Counter_Top)
+[2018.01.03-20.45.53:191][706]LogActorFactory: Actor Factory created SM_KitchenCabinet_02
+[2018.01.03-20.45.56:687][994]LogActorFactory: Actor Factory created SM_KitchenCabinet_02
+[2018.01.03-20.45.57:764][ 67]LogActorFactory: Actor Factory created SM_KitchenCabinet_02
+[2018.01.03-20.45.58:539][154]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.46.02:452][563]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.46.16:883][196]LogActorFactory: Actor Factory created SM_KitchenCabinet_01
+[2018.01.03-20.46.18:340][326]LogActorFactory: Actor Factory created SM_KitchenCabinet_01
+[2018.01.03-20.46.23:137][866]Cmd: DELETE
+[2018.01.03-20.46.23:137][866]Cmd: ACTOR DELETE
+[2018.01.03-20.46.23:142][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.46.23:164][866]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.46.23:925][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_KitchenCabinet_3)
+[2018.01.03-20.46.23:947][951]Cmd: DELETE
+[2018.01.03-20.46.23:947][951]Cmd: ACTOR DELETE
+[2018.01.03-20.46.23:951][951]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.46.23:973][951]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.46.52:501][301]LogEditorViewport: Clicking on Actor (LMB): BP_Kitchencounter_Island_C (BP_Kitchencounter_Island)
+[2018.01.03-20.46.55:310][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Corner)
+[2018.01.03-20.46.56:633][759]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Top)
+[2018.01.03-20.47.02:353][432]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.47.12:462][626]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.47.18:973][335]LogEditorViewport: Clicking on Actor (LMB): BP_Cabinet_02_C (BP_Cabinet_02)
+[2018.01.03-20.47.21:279][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Corner)
+[2018.01.03-20.47.26:674][239]Cmd: TRANSACTION UNDO
+[2018.01.03-20.47.26:674][239]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.01.03-20.47.41:541][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Top)
+[2018.01.03-20.47.43:429][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Corner)
+[2018.01.03-20.47.57:726][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Top)
+[2018.01.03-20.48.12:806][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Corner)
+[2018.01.03-20.48.14:819][830]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Top)
+[2018.01.03-20.48.17:700][168]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.48.25:268][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_KitchenCabinet_CornerRow)
+[2018.01.03-20.48.33:212][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Corner)
+[2018.01.03-20.48.33:959][ 43]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Top)
+[2018.01.03-20.48.39:710][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Corner)
+[2018.01.03-20.48.55:103][501]LogEditorViewport: Clicking on Actor (LMB): BP_Kitchencounter_Island_C (BP_Kitchencounter_Island)
+[2018.01.03-20.48.55:732][549]LogEditorViewport: Clicking on Actor (LMB): BP_Oven_C (BP_Oven)
+[2018.01.03-20.49.04:655][556]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.49.09:563][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fridge)
+[2018.01.03-20.49.17:570][ 19]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.49.29:747][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_KitchenCabinet_01)
+[2018.01.03-20.49.33:834][841]Cmd: DELETE
+[2018.01.03-20.49.33:834][841]Cmd: ACTOR DELETE
+[2018.01.03-20.49.33:839][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.49.33:872][841]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.01.03-20.49.35:576][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Kitchencounter_L_Counter_Tap)
+[2018.01.03-20.49.38:757][419]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.49.50:030][705]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.50.20:173][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CuttingBoard)
+[2018.01.03-20.50.20:918][262]Cmd: DELETE
+[2018.01.03-20.50.20:918][262]Cmd: ACTOR DELETE
+[2018.01.03-20.50.20:923][262]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.50.20:944][262]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.50.46:857][971]LogEditorViewport: Clicking on Actor (LMB): BP_Kitchencounter_Island_C (BP_Kitchencounter_Island)
+[2018.01.03-20.51.16:872][310]LogActorFactory: Actor Factory created SM_Stool_02
+[2018.01.03-20.51.18:718][510]LogActorFactory: Actor Factory created SM_Stool_02
+[2018.01.03-20.51.20:872][759]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.51.28:250][596]LogEditorViewport: Clicking on Actor (LMB): BP_Kitchencounter_Island_C (BP_Kitchencounter_Island2)
+[2018.01.03-20.51.34:713][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stool_02)
+[2018.01.03-20.51.55:053][760]LogActorFactory: Actor Factory created SM_Table_03
+[2018.01.03-20.51.56:210][876]LogActorFactory: Actor Factory created SM_Table_03
+[2018.01.03-20.52.09:303][241]LogActorFactory: Actor Factory created SM_Chair_03
+[2018.01.03-20.52.11:245][422]LogActorFactory: Actor Factory created SM_Chair_03
+[2018.01.03-20.52.11:874][491]Cmd: DELETE
+[2018.01.03-20.52.11:874][491]Cmd: ACTOR DELETE
+[2018.01.03-20.52.11:881][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.52.11:927][491]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.01.03-20.52.13:660][687]LogActorFactory: Actor Factory created SM_Chair_02
+[2018.01.03-20.52.17:377][ 93]LogActorFactory: Actor Factory created SM_Chair_02
+[2018.01.03-20.52.17:886][148]Cmd: DELETE
+[2018.01.03-20.52.17:886][148]Cmd: ACTOR DELETE
+[2018.01.03-20.52.17:890][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.52.17:912][148]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.52.18:520][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_03)
+[2018.01.03-20.52.19:307][308]Cmd: DELETE
+[2018.01.03-20.52.19:307][308]Cmd: ACTOR DELETE
+[2018.01.03-20.52.19:311][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.52.19:333][308]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.52.28:480][329]LogActorFactory: Actor Factory created SM_Table_04
+[2018.01.03-20.52.30:027][485]LogActorFactory: Actor Factory created SM_Table_04
+[2018.01.03-20.52.32:392][741]LogActorFactory: Actor Factory created SM_Table_02
+[2018.01.03-20.52.33:087][815]LogActorFactory: Actor Factory created SM_Table_02
+[2018.01.03-20.52.33:765][891]Cmd: DELETE
+[2018.01.03-20.52.33:765][891]Cmd: ACTOR DELETE
+[2018.01.03-20.52.33:770][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-20.52.33:792][891]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.03-20.53.04:144][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_04)
+[2018.01.03-20.53.30:278][485]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.54.02:826][199]Cmd: TRANSACTION UNDO
+[2018.01.03-20.54.02:826][199]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-20.54.03:375][251]Cmd: TRANSACTION UNDO
+[2018.01.03-20.54.03:375][251]LogEditorTransaction: Undo Move Actors
+[2018.01.03-20.54.03:385][251]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2018.01.03-20.54.03:390][251]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2018.01.03-20.54.03:390][251]LogGeometryMode: Warning: Unable to resolve BoxBrush46 Brush in new BSP, see above
+[2018.01.03-20.54.03:390][251]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.01.03-20.54.09:023][919]Cmd: MODE GRID=1
+[2018.01.03-20.55.06:686][581]LogGeometryMode: Warning: Unable to find BoxBrush9 Brush(s) in new BSP
+[2018.01.03-20.55.06:686][581]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.01.03-20.55.20:205][ 89]Cmd: TRANSACTION UNDO
+[2018.01.03-20.55.20:205][ 89]LogEditorTransaction: Undo Create Actors
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 31
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 32
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 33
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 34
+[2018.01.03-20.55.20:208][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 35
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 36
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 37
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 38
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 39
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 40
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 41
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 42
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 43
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 44
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 45
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 46
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 47
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 48
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 49
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 50
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 51
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 52
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 53
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 54
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 55
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 56
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 57
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 58
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 59
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 60
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 61
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 62
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 63
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 64
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 65
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 66
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 67
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 68
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 69
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 70
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 71
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 72
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 73
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 74
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 75
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 76
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 77
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 78
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 79
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 80
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 81
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 82
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 83
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 84
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 85
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 86
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 87
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 88
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 89
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 90
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 91
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 92
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 93
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 94
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 95
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 96
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 97
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 98
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 99
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 100
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 101
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 102
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 103
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_97' invalid (3602 verts, 0 indices).
+[2018.01.03-20.55.20:209][ 89]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_97.BodySetup_98 when we are unable to.
+[2018.01.03-20.57.26:186][768]Cmd: TRANSACTION UNDO
+[2018.01.03-20.57.26:187][768]LogEditorTransaction: Undo Move Actors
+[2018.01.03-20.57.26:193][768]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2018.01.03-20.58.10:177][584]Cmd: TRANSACTION UNDO
+[2018.01.03-20.58.10:178][584]LogEditorTransaction: Undo Edit Step Width
+[2018.01.03-20.58.10:188][584]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2018.01.03-20.58.16:381][289]Cmd: EDCALLBACK SURFPROPS
+[2018.01.03-20.58.28:101][671]Cmd: TRANSACTION UNDO
+[2018.01.03-20.58.28:101][671]LogEditorTransaction: Undo Edit Step Width
+[2018.01.03-20.58.28:111][671]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2018.01.03-20.58.28:459][704]Cmd: TRANSACTION UNDO
+[2018.01.03-20.58.28:459][704]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-20.58.28:826][738]Cmd: TRANSACTION UNDO
+[2018.01.03-20.58.28:826][738]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-20.58.29:518][816]Cmd: TRANSACTION UNDO
+[2018.01.03-20.58.29:518][816]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-20.58.58:828][142]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-20.59.14:460][868]LogGeometryMode: Warning: Unable to find BoxBrush34 Brush(s) in new BSP
+[2018.01.03-20.59.14:460][868]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.01.03-20.59.40:266][718]Cmd: MODE GRID=0
+[2018.01.03-21.00.20:849][245]Cmd: TRANSACTION UNDO
+[2018.01.03-21.00.20:849][245]LogEditorTransaction: Undo Move Actors
+[2018.01.03-21.00.20:855][245]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_181' invalid (3662 verts, 0 indices).
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_181.BodySetup_182 when we are unable to.
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.01.03-21.00.20:858][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 31
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 32
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 33
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 34
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 35
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 36
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 37
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 38
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 39
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 40
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 41
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 42
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 43
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 44
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 45
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 46
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 47
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 48
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 49
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 50
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 51
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 52
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 53
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 54
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 55
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 56
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 57
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 58
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 59
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 60
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 61
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 62
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 63
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 64
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 65
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 66
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 67
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 68
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 69
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 70
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 71
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 72
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 73
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 74
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 75
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 76
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 77
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 78
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 79
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 80
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 81
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 82
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 83
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 84
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 85
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 86
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 87
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 88
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 89
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 90
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 91
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 92
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 93
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 94
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 95
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 96
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 97
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 98
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 99
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 100
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 101
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 102
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 103
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 104
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 105
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 106
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 107
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 108
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_182' invalid (3662 verts, 0 indices).
+[2018.01.03-21.00.20:859][245]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_182.BodySetup_183 when we are unable to.
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 4
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 5
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 6
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 7
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 8
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 9
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 10
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 11
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 12
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 13
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 14
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 15
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 16
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 17
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 18
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 19
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 20
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 21
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 22
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 23
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 24
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 25
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 26
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 27
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 28
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 29
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 30
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 31
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 32
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 33
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 34
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 35
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 36
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 37
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 38
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 39
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 40
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 41
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 42
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 43
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 44
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 45
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 46
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 47
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 48
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 49
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 50
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 51
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 52
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 53
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 54
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 55
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 56
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 57
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 58
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 59
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 60
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 61
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 62
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 63
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 64
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 65
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 66
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 67
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 68
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 69
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 70
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 71
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 72
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 73
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 74
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 75
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 76
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 77
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 78
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 79
+[2018.01.03-21.00.20:860][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 80
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 81
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 82
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 83
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 84
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 85
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 86
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 87
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 88
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 89
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 90
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 91
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 92
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 93
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 94
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 95
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 96
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 97
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 98
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 99
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 100
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 101
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 102
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 103
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 104
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 105
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 106
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 107
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 108
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 109
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 110
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 111
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 112
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 113
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 114
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 115
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_183' invalid (3662 verts, 0 indices).
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_183.BodySetup_184 when we are unable to.
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_184' invalid (3662 verts, 0 indices).
+[2018.01.03-21.00.20:861][245]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.ModelComponent_184.BodySetup_185 when we are unable to.
+[2018.01.03-21.00.20:862][245]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2018.01.03-21.00.23:178][475]Cmd: MODE GRID=1
+[2018.01.03-21.00.53:072][945]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.03-21.01.01:431][879]Cmd: MODE GRID=0
+[2018.01.03-21.01.05:879][362]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.03-21.01.09:810][810]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.03-21.01.21:401][139]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.03-21.01.27:851][893]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.03-21.01.42:688][608]Cmd: TRANSACTION UNDO
+[2018.01.03-21.01.42:688][608]LogEditorTransaction: Undo Move Actors
+[2018.01.03-21.01.42:693][608]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.01.03-21.01.42:702][608]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2018.01.03-21.01.42:702][608]LogGeometryMode: Warning: Unable to resolve BoxBrush24 Brush in new BSP, see above
+[2018.01.03-21.01.42:702][608]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.01.03-21.01.47:982][219]Cmd: MODE GRID=1
+[2018.01.03-21.01.52:133][683]LogGeometryMode: Warning: Unable to find LinearStairBrush Brush(s) in new BSP
+[2018.01.03-21.01.52:134][683]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.01.03-21.01.59:350][524]Cmd: TRANSACTION UNDO
+[2018.01.03-21.01.59:350][524]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.03-21.01.59:806][543]Cmd: TRANSACTION UNDO
+[2018.01.03-21.01.59:806][543]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-21.02.00:082][566]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.00:082][566]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-21.02.00:268][581]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.00:268][581]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-21.02.00:428][595]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.00:428][595]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.03-21.02.00:585][607]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.00:585][607]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.03-21.02.00:756][620]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.00:756][620]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.03-21.02.00:900][631]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.00:900][631]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.03-21.02.01:065][646]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.01:065][646]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-21.02.01:225][659]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.01:226][659]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-21.02.01:388][671]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.01:389][671]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-21.02.01:581][687]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.01:581][687]LogEditorTransaction: Undo Modifier [Edit]
+[2018.01.03-21.02.03:869][903]LogGeometryMode: Warning: Unable to find BoxBrush3_17 Brush(s) in new BSP
+[2018.01.03-21.02.03:869][903]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.01.03-21.02.06:202][122]Cmd: DELETE
+[2018.01.03-21.02.06:220][122]Cmd: ACTOR DELETE
+[2018.01.03-21.02.06:227][122]LogEditorActor: Deleted Actor: Brush
+[2018.01.03-21.02.06:267][122]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.01.03-21.02.07:478][266]Cmd: TRANSACTION UNDO
+[2018.01.03-21.02.07:478][266]LogEditorTransaction: Undo Delete Actors
+[2018.01.03-21.02.07:486][266]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2018.01.03-21.02.20:631][662]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-21.03.12:192][599]LogActorFactory: Actor Factory created SM_Couch
+[2018.01.03-21.03.13:244][691]LogActorFactory: Actor Factory created SM_Couch
+[2018.01.03-21.03.14:550][832]LogActorFactory: Actor Factory created SM_Couch_Single
+[2018.01.03-21.03.15:403][913]LogActorFactory: Actor Factory created SM_Couch_Single
+[2018.01.03-21.03.16:505][ 34]LogActorFactory: Actor Factory created SM_Couch_Single
+[2018.01.03-21.03.17:375][111]LogActorFactory: Actor Factory created SM_Couch_Single
+[2018.01.03-21.03.44:067][ 94]LogActorFactory: Actor Factory created SM_Rug_01
+[2018.01.03-21.03.46:158][316]LogActorFactory: Actor Factory created SM_Rug_01
+[2018.01.03-21.03.50:357][795]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush4)
+[2018.01.03-21.03.53:840][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.01.03-21.04.05:479][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch_Single)
+[2018.01.03-21.04.11:798][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rug_01)
+[2018.01.03-21.04.14:091][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch_Single2)
+[2018.01.03-21.04.22:756][497]LogActorFactory: Actor Factory created SM_Table_01
+[2018.01.03-21.04.24:770][656]LogActorFactory: Actor Factory created SM_Table_01
+[2018.01.03-21.04.27:799][981]LogActorFactory: Actor Factory created SM_Table_01
+[2018.01.03-21.04.29:154][113]LogActorFactory: Actor Factory created SM_Table_01
+[2018.01.03-21.04.30:429][245]LogActorFactory: Actor Factory created SM_Table_03
+[2018.01.03-21.04.33:499][542]LogActorFactory: Actor Factory created SM_Table_03
+[2018.01.03-21.04.34:761][688]Cmd: DELETE
+[2018.01.03-21.04.34:761][688]Cmd: ACTOR DELETE
+[2018.01.03-21.04.34:767][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-21.04.34:791][688]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.01.03-21.04.35:773][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_01)
+[2018.01.03-21.04.36:053][833]Cmd: DELETE
+[2018.01.03-21.04.36:053][833]Cmd: ACTOR DELETE
+[2018.01.03-21.04.36:058][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.03-21.04.36:082][833]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.01.03-21.04.37:120][947]LogActorFactory: Actor Factory created SM_Table_03
+[2018.01.03-21.04.39:160][164]LogActorFactory: Actor Factory created SM_Table_03
+[2018.01.03-21.04.46:688][ 37]LogActorFactory: Actor Factory created SM_TV
+[2018.01.03-21.04.49:596][355]LogActorFactory: Actor Factory created SM_TV
+[2018.01.03-21.05.09:320][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_03)
+[2018.01.03-21.05.17:605][617]LogActorFactory: Actor Factory created SM_Chair_Ottoman
+[2018.01.03-21.05.19:099][780]LogActorFactory: Actor Factory created SM_Chair_Ottoman
+[2018.01.03-21.05.21:972][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch_Single)
+[2018.01.03-21.05.24:861][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_Ottoman)
+[2018.01.03-21.05.28:649][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_03)
+[2018.01.03-21.05.44:939][760]LogActorFactory: Actor Factory created SM_Cabinet_01
+[2018.01.03-21.05.46:534][910]LogActorFactory: Actor Factory created SM_Cabinet_01
+[2018.01.03-21.06.09:096][422]MapCheck: New page: Map Check
+[2018.01.03-21.06.09:107][422]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.03-21.06.09:113][422]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.03-21.06.09:299][422]LogEditorServer: Cleared 21 NULL BSP materials after rebuild.
+[2018.01.03-21.06.09:299][422]LightingResults: New page: Lighting Build - Jan 3, 2018, 11:06:09 AM
+[2018.01.03-21.06.09:331][422]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.03-21.06.09:384][422]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.03-21.06.09:393][422]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.03-21.06.09:900][422]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.03-21.06.09:900][422]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22960
+[2018.01.03-21.06.12:005][422]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.03-21.06.12:006][422]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.03-21.06.12:006][422]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.03-21.06.12:006][422]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.03-21.06.12:006][422]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.03-21.06.12:006][422]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.03-21.06.12:496][422]LogEditorBuildUtils: Build time 0:03
+[2018.01.03-21.06.12:505][422]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Windows, compiling. 
+[2018.01.03-21.06.12:510][422]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Windows, compiling. 
+[2018.01.03-21.06.12:536][423]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2018.01.03-21.06.12:541][423]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2018.01.03-21.06.12:545][423]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Toilet, compiling. 
+[2018.01.03-21.06.12:550][423]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Toilet, compiling. 
+[2018.01.03-21.06.12:577][424]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Addons, compiling. 
+[2018.01.03-21.06.12:582][424]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Addons, compiling. 
+[2018.01.03-21.06.12:602][425]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_Bedroom, compiling. 
+[2018.01.03-21.06.12:607][425]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_Bedroom, compiling. 
+[2018.01.03-21.06.12:612][425]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Bathroom, compiling. 
+[2018.01.03-21.06.12:616][425]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Bathroom, compiling. 
+[2018.01.03-21.06.12:636][426]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Lamp_04, compiling. 
+[2018.01.03-21.06.12:641][426]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Lamp_04, compiling. 
+[2018.01.03-21.06.12:659][427]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_FrontDoor, compiling. 
+[2018.01.03-21.06.12:664][427]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_FrontDoor, compiling. 
+[2018.01.03-21.06.12:683][428]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_01, compiling. 
+[2018.01.03-21.06.12:688][428]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_01, compiling. 
+[2018.01.03-21.06.12:692][428]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Hanger, compiling. 
+[2018.01.03-21.06.12:697][428]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Hanger, compiling. 
+[2018.01.03-21.06.12:715][429]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_02, compiling. 
+[2018.01.03-21.06.12:719][429]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_02, compiling. 
+[2018.01.03-21.06.12:737][430]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Chair_01, compiling. 
+[2018.01.03-21.06.12:742][430]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Chair_01, compiling. 
+[2018.01.03-21.06.12:746][430]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Lamp_03, compiling. 
+[2018.01.03-21.06.12:751][430]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Lamp_03, compiling. 
+[2018.01.03-21.06.12:768][431]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Rug_02, compiling. 
+[2018.01.03-21.06.12:772][431]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Rug_02, compiling. 
+[2018.01.03-21.06.12:777][431]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_Office, compiling. 
+[2018.01.03-21.06.12:781][431]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_Office, compiling. 
+[2018.01.03-21.06.12:799][432]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Oven, compiling. 
+[2018.01.03-21.06.12:804][432]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Oven, compiling. 
+[2018.01.03-21.06.12:819][433]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_Kitchencounter, compiling. 
+[2018.01.03-21.06.12:824][433]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Furniture_Kitchencounter, compiling. 
+[2018.01.03-21.06.12:838][434]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Kitchen_01, compiling. 
+[2018.01.03-21.06.12:843][434]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Kitchen_01, compiling. 
+[2018.01.03-21.06.12:858][435]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Fridge, compiling. 
+[2018.01.03-21.06.12:864][435]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Fridge, compiling. 
+[2018.01.03-21.06.12:880][436]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Stools, compiling. 
+[2018.01.03-21.06.12:886][436]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Stools, compiling. 
+[2018.01.03-21.06.12:903][437]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Table_04, compiling. 
+[2018.01.03-21.06.12:909][437]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Table_04, compiling. 
+[2018.01.03-21.06.12:926][438]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Rug, compiling. 
+[2018.01.03-21.06.12:932][438]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Rug, compiling. 
+[2018.01.03-21.06.12:950][439]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Table_03, compiling. 
+[2018.01.03-21.06.12:956][439]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Table_03, compiling. 
+[2018.01.03-21.06.12:975][440]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Electronics, compiling. 
+[2018.01.03-21.06.12:981][440]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Electronics, compiling. 
+[2018.01.03-21.06.13:002][441]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Chair_Ottoman, compiling. 
+[2018.01.03-21.06.13:009][441]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Props_Chair_Ottoman, compiling. 
+[2018.01.03-21.06.13:031][442]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Wall_01, compiling. 
+[2018.01.03-21.06.13:037][442]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Wall_01, compiling. 
+[2018.01.03-21.06.13:059][443]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Ceiling, compiling. 
+[2018.01.03-21.06.13:066][443]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Ceiling, compiling. 
+[2018.01.03-21.06.13:089][444]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Wall_02, compiling. 
+[2018.01.03-21.06.13:096][444]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Wall_02, compiling. 
+[2018.01.03-21.06.13:123][445]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Wall_04, compiling. 
+[2018.01.03-21.06.13:129][445]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Apt_Wall_04, compiling. 
+[2018.01.03-21.06.23:939][952]Job is a success!
+[2018.01.03-21.06.24:014][953]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2018.01.03-21.06.24:014][953]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.03-21.06.24:014][953]LogVolumetricLightmapImport:      BrickData 515x5x5 = 0.4Mb
+[2018.01.03-21.06.24:014][953]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.03-21.06.24:014][953]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2018.01.03-21.06.24:014][953]LogVolumetricLightmapImport:          1: 3.9% covering 6.3% of volume
+[2018.01.03-21.06.24:014][953]LogVolumetricLightmapImport:          2: 95.1% covering 2.4% of volume
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2018.01.03-21.06.24:791][953]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2018.01.03-21.06.24:981][953]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.01.03-21.06.24:981][953]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X256)
+[2018.01.03-21.06.24:981][953]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2018.01.03-21.06.25:003][953]Lightmass on DESKTOP-0I034II: 8.29 sec total, 195 ms importing, 34 ms setup, 2.12 sec photons, 5.92 sec processing, 0 ms extra exporting [280/280 mappings]. Threads: 1:50 min total, 1:15 min processing.
+[2018.01.03-21.06.25:044][953]LogStaticLightingSystem: Illumination: 15.7 sec (602 ms encoding lightmaps, 183 ms encoding shadowmaps)
+[2018.01.03-21.06.25:044][953]LogStaticLightingSystem: Lightmap texture memory:  8.5 MB (8.0 MB streaming, 0.5 MB non-streaming), 12 textures
+[2018.01.03-21.06.25:044][953]LogStaticLightingSystem: Shadowmap texture memory: 6.0 MB (5.3 MB streaming, 0.7 MB non-streaming), 3 textures
+[2018.01.03-21.06.26:015][953]DumpUnbuiltLightIteractions
+[2018.01.03-21.06.26:015][953]Lights with unbuilt interactions: 0
+[2018.01.03-21.06.26:015][953]
+[2018.01.03-21.06.26:015][953]Primitives with unbuilt interactions: 0
+[2018.01.03-21.06.26:025][954]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.03-21.06.26:025][954]MapCheck: New page: DemoMap - Jan 3, 2018, 11:06:26 AM
+[2018.01.03-21.06.26:100][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.677ms to complete.
+[2018.01.03-21.06.31:193][523]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.03-21.06.31:236][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.03-21.06.31:236][523]PIE: New page: PIE session: DemoMap (Jan 3, 2018, 11:06:31 AM)
+[2018.01.03-21.06.31:236][523]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_DemoMap
+[2018.01.03-21.06.31:250][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013276s)
+[2018.01.03-21.06.31:250][523]LogAIModule: Creating AISystem for world DemoMap
+[2018.01.03-21.06.31:250][523]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2018.01.03-21.06.31:251][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/DemoMap.DemoMap to /Game/StarterContent/Maps/UEDPIE_0_DemoMap.DemoMap (0.014156s)
+[2018.01.03-21.06.31:282][523]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.03-21.06.31:297][523]LogInit: FAudioDevice initialized.
+[2018.01.03-21.06.31:336][523]LogLoad: Game class is 'DemoGameMode'
+[2018.01.03-21.06.31:340][523]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 0) at 2018.01.03-16.06.31
+[2018.01.03-21.06.31:341][523]LogWorld: Bringing up level for play took: 0.003733
+[2018.01.03-21.06.31:377][523]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.01.03-21.06.31:378][523]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_DemoMap 0.201
+[2018.01.03-21.07.27:421][234]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=13.06 Y=10.99 Z=0.00 Location: X=-176.21 Y=-687.91 Z=249.15 Normal: X=-0.49 Y=-0.87 Z=0.00 PenetrationDepth:0.871 Actor:BP_Door_01_1341 Component:SM_Door_01 BoneName:None (0 other events since notify)
+[2018.01.03-21.08.12:957][587]Cmd: TRANSACTION UNDO
+[2018.01.03-21.08.12:957][587]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.03-21.08.13:350][623]Cmd: TRANSACTION UNDO
+[2018.01.03-21.08.13:351][623]LogEditorTransaction: Undo Move Actors
+[2018.01.03-21.08.13:362][623]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2018.01.03-21.08.14:042][700]Cmd: TRANSACTION UNDO
+[2018.01.03-21.08.14:042][700]LogEditorTransaction: Undo Move Actors
+[2018.01.03-21.08.14:053][700]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/DemoMap.DemoMap:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2018.01.03-21.08.55:346][536]MapCheck: New page: Map Check
+[2018.01.03-21.08.55:358][536]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.03-21.08.55:358][536]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.03-21.08.55:639][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.03-21.08.55:645][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.01.03-21.08.55:648][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2018.01.03-21.08.55:653][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_04, compiling. 
+[2018.01.03-21.08.55:657][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_01, compiling. 
+[2018.01.03-21.08.55:661][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_02, compiling. 
+[2018.01.03-21.08.55:666][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_03, compiling. 
+[2018.01.03-21.08.55:671][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_05, compiling. 
+[2018.01.03-21.08.55:675][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Wall_02, compiling. 
+[2018.01.03-21.08.55:680][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Wall_04, compiling. 
+[2018.01.03-21.08.55:685][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Windows, compiling. 
+[2018.01.03-21.08.55:690][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.03-21.08.55:696][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Wall_01, compiling. 
+[2018.01.03-21.08.55:700][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Ceiling, compiling. 
+[2018.01.03-21.08.55:705][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.01.03-21.08.55:709][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Toilet, compiling. 
+[2018.01.03-21.08.55:714][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Addons, compiling. 
+[2018.01.03-21.08.55:721][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_Bedroom, compiling. 
+[2018.01.03-21.08.55:726][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Bathroom, compiling. 
+[2018.01.03-21.08.55:731][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Lamp_04, compiling. 
+[2018.01.03-21.08.55:737][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_FrontDoor, compiling. 
+[2018.01.03-21.08.55:741][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_01, compiling. 
+[2018.01.03-21.08.55:746][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Hanger, compiling. 
+[2018.01.03-21.08.55:751][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Interior, compiling. 
+[2018.01.03-21.08.55:756][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_02, compiling. 
+[2018.01.03-21.08.55:761][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Chair_01, compiling. 
+[2018.01.03-21.08.55:767][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Lamp_03, compiling. 
+[2018.01.03-21.08.55:772][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rug_02, compiling. 
+[2018.01.03-21.08.55:776][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_Office, compiling. 
+[2018.01.03-21.08.55:780][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Oven, compiling. 
+[2018.01.03-21.08.55:785][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_Kitchencounter, compiling. 
+[2018.01.03-21.08.55:789][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Kitchen_01, compiling. 
+[2018.01.03-21.08.55:793][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Fridge, compiling. 
+[2018.01.03-21.08.55:798][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Stools, compiling. 
+[2018.01.03-21.08.55:803][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Table_04, compiling. 
+[2018.01.03-21.08.55:807][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rug, compiling. 
+[2018.01.03-21.08.55:811][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Table_03, compiling. 
+[2018.01.03-21.08.55:815][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Electronics, compiling. 
+[2018.01.03-21.08.55:819][536]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Chair_Ottoman, compiling. 
+[2018.01.03-21.08.56:711][536]TextureStreamingBuild: Display: Compiling optional shaders took 1.077 seconds.
+[2018.01.03-21.08.56:785][536]LogLevel: Display: Export Material TexCoord Scales took 0.074 seconds.
+[2018.01.03-21.08.56:801][536]TextureStreamingBuild: Display: Build Texture Streaming took 0.016 seconds.
+[2018.01.03-21.08.56:825][536]LightingResults: New page: Lighting Build - Jan 3, 2018, 11:08:56 AM
+[2018.01.03-21.08.56:833][536]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.03-21.08.56:838][536]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.03-21.08.56:838][536]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.03-21.08.56:838][536]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.03-21.08.56:838][536]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22960
+[2018.01.03-21.09.01:368][536]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.03-21.09.01:368][536]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.03-21.09.01:368][536]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.03-21.09.01:368][536]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.03-21.09.01:368][536]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.03-21.09.01:368][536]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.03-21.09.01:477][536]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.03-21.09.01:477][536]MapCheck: New page: DemoMap - Jan 3, 2018, 11:09:01 AM
+[2018.01.03-21.09.01:478][536]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.03-21.09.01:547][536]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 69.687ms to complete.
+[2018.01.03-21.09.01:570][536]LogEditorBuildUtils: Build time 0:06
+[2018.01.03-21.09.10:649][ 68]Job is a success!
+[2018.01.03-21.09.10:711][ 69]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2018.01.03-21.09.10:711][ 69]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.03-21.09.10:712][ 69]LogVolumetricLightmapImport:      BrickData 515x5x5 = 0.4Mb
+[2018.01.03-21.09.10:712][ 69]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.03-21.09.10:712][ 69]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2018.01.03-21.09.10:712][ 69]LogVolumetricLightmapImport:          1: 3.9% covering 6.3% of volume
+[2018.01.03-21.09.10:712][ 69]LogVolumetricLightmapImport:          2: 95.1% covering 2.4% of volume
+[2018.01.03-21.09.10:890][ 69]LightingResults: Error: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.01.03-21.09.10:890][ 69]LightingResults: Error: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.01.03-21.09.10:890][ 69]LightingResults: Error: PointLight_4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2018.01.03-21.09.11:487][ 69]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2018.01.03-21.09.11:488][ 69]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 64X64)
+[2018.01.03-21.09.11:488][ 69]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 64X64)
+[2018.01.03-21.09.11:687][ 69]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2018.01.03-21.09.11:687][ 69]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 512X256)
+[2018.01.03-21.09.11:687][ 69]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X1024)
+[2018.01.03-21.09.11:687][ 69]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X1024)
+[2018.01.03-21.09.11:702][ 69]Lightmass on DESKTOP-0I034II: 9.32 sec total, 182 ms importing, 42 ms setup, 2.01 sec photons, 7.06 sec processing, 0 ms extra exporting [280/280 mappings]. Threads: 2:12 min total, 1:11 min processing.
+[2018.01.03-21.09.11:749][ 69]LogStaticLightingSystem: Illumination: 14.9 sec (596 ms encoding lightmaps, 196 ms encoding shadowmaps)
+[2018.01.03-21.09.11:749][ 69]LogStaticLightingSystem: Lightmap texture memory:  8.5 MB (8.0 MB streaming, 0.5 MB non-streaming), 12 textures
+[2018.01.03-21.09.11:749][ 69]LogStaticLightingSystem: Shadowmap texture memory: 11.3 MB (10.7 MB streaming, 0.7 MB non-streaming), 4 textures
+[2018.01.03-21.09.12:373][ 69]DumpUnbuiltLightIteractions
+[2018.01.03-21.09.12:373][ 69]Lights with unbuilt interactions: 0
+[2018.01.03-21.09.12:373][ 69]
+[2018.01.03-21.09.12:373][ 69]Primitives with unbuilt interactions: 0
+[2018.01.03-21.09.12:383][ 70]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.03-21.09.12:384][ 70]MapCheck: New page: DemoMap - Jan 3, 2018, 11:09:12 AM
+[2018.01.03-21.09.12:453][ 70]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.956ms to complete.
+[2018.01.03-21.09.27:821][865]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.03-21.09.27:830][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.03-21.09.27:830][865]PIE: New page: PIE session: DemoMap (Jan 3, 2018, 11:09:27 AM)
+[2018.01.03-21.09.27:830][865]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_DemoMap
+[2018.01.03-21.09.27:843][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013516s)
+[2018.01.03-21.09.27:844][865]LogAIModule: Creating AISystem for world DemoMap
+[2018.01.03-21.09.27:844][865]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2018.01.03-21.09.27:844][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/DemoMap.DemoMap to /Game/StarterContent/Maps/UEDPIE_0_DemoMap.DemoMap (0.014361s)
+[2018.01.03-21.09.27:875][865]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.03-21.09.27:887][865]LogInit: FAudioDevice initialized.
+[2018.01.03-21.09.27:919][865]LogLoad: Game class is 'DemoGameMode'
+[2018.01.03-21.09.27:923][865]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 0) at 2018.01.03-16.09.27
+[2018.01.03-21.09.27:923][865]LogWorld: Bringing up level for play took: 0.003778
+[2018.01.03-21.09.27:925][865]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_DemoMap 0.748
+[2018.01.03-21.09.45:149][920]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=106.323 Y=-1593.966 Z=238.468] for [FirstPersonProjectile_C]
+[2018.01.03-21.10.02:919][  8]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2018.01.03-21.10.03:879][117]Cmd: DELETE
+[2018.01.03-21.10.03:879][117]Cmd: ACTOR DELETE
+[2018.01.03-21.10.03:884][117]LogEditorActor: Deleted Actor: PointLight
+[2018.01.03-21.10.03:906][117]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.01.03-21.10.08:459][637]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.01.03-21.10.09:534][760]Cmd: DELETE
+[2018.01.03-21.10.09:534][760]Cmd: ACTOR DELETE
+[2018.01.03-21.10.09:539][760]LogEditorActor: Deleted Actor: PointLight
+[2018.01.03-21.10.09:561][760]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.01.03-21.10.12:400][ 62]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight1)
+[2018.01.03-21.10.17:825][644]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.01.03-21.10.25:662][531]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2018.01.03-21.10.33:882][435]Cmd: DELETE
+[2018.01.03-21.10.33:883][435]Cmd: ACTOR DELETE
+[2018.01.03-21.10.33:887][435]LogEditorActor: Deleted Actor: PointLight
+[2018.01.03-21.10.33:909][435]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.01.03-21.10.52:761][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch)
+[2018.01.03-21.10.55:197][928]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Table_03)
+[2018.01.03-21.10.55:615][972]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rug_01)
+[2018.01.03-21.10.56:212][ 38]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Couch_Single2)
+[2018.01.03-21.10.56:990][125]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Chair_Ottoman)
+[2018.01.03-21.10.57:838][221]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Couch_Single)
+[2018.01.03-21.11.06:791][279]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-21.11.23:929][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Couch_Single)
+[2018.01.03-21.11.57:085][123]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Chair_Ottoman)
+[2018.01.03-21.11.57:532][171]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Table_03)
+[2018.01.03-21.11.57:927][212]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Rug_01)
+[2018.01.03-21.11.58:350][257]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Couch_Single2)
+[2018.01.03-21.11.58:869][313]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Couch)
+[2018.01.03-21.12.04:576][979]Cmd: TRANSACTION UNDO
+[2018.01.03-21.12.04:576][979]LogEditorTransaction: Undo Select Brush Surface
+[2018.01.03-21.12.25:101][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cabinet_01)
+[2018.01.03-21.12.26:272][496]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_TV)
+[2018.01.03-21.12.38:312][876]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-21.12.49:400][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cabinet_01)
+[2018.01.03-21.13.04:996][975]LogEditorViewport: Clicking on Actor (LMB): BP_Oven_C (BP_Oven)
+[2018.01.03-21.13.08:579][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fridge)
+[2018.01.03-21.13.12:574][859]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.03-21.14.22:033][922]MapCheck: New page: Map Check
+[2018.01.03-21.14.22:045][922]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.03-21.14.22:045][922]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.03-21.14.22:308][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.03-21.14.22:313][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.01.03-21.14.22:317][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2018.01.03-21.14.22:321][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_04, compiling. 
+[2018.01.03-21.14.22:326][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_01, compiling. 
+[2018.01.03-21.14.22:331][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_02, compiling. 
+[2018.01.03-21.14.22:335][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_03, compiling. 
+[2018.01.03-21.14.22:340][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Floor_05, compiling. 
+[2018.01.03-21.14.22:345][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Wall_02, compiling. 
+[2018.01.03-21.14.22:350][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Wall_04, compiling. 
+[2018.01.03-21.14.22:355][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Windows, compiling. 
+[2018.01.03-21.14.22:360][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.01.03-21.14.22:365][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Wall_01, compiling. 
+[2018.01.03-21.14.22:370][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Ceiling, compiling. 
+[2018.01.03-21.14.22:375][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.01.03-21.14.22:380][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Toilet, compiling. 
+[2018.01.03-21.14.22:384][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Addons, compiling. 
+[2018.01.03-21.14.22:389][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_Bedroom, compiling. 
+[2018.01.03-21.14.22:394][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Bathroom, compiling. 
+[2018.01.03-21.14.22:400][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Lamp_04, compiling. 
+[2018.01.03-21.14.22:404][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_FrontDoor, compiling. 
+[2018.01.03-21.14.22:409][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_01, compiling. 
+[2018.01.03-21.14.22:414][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Hanger, compiling. 
+[2018.01.03-21.14.22:419][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Apt_Interior, compiling. 
+[2018.01.03-21.14.22:424][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_02, compiling. 
+[2018.01.03-21.14.22:429][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Chair_01, compiling. 
+[2018.01.03-21.14.22:433][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Lamp_03, compiling. 
+[2018.01.03-21.14.22:438][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rug_02, compiling. 
+[2018.01.03-21.14.22:442][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_Office, compiling. 
+[2018.01.03-21.14.22:446][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Oven, compiling. 
+[2018.01.03-21.14.22:451][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Furniture_Kitchencounter, compiling. 
+[2018.01.03-21.14.22:455][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Kitchen_01, compiling. 
+[2018.01.03-21.14.22:459][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Fridge, compiling. 
+[2018.01.03-21.14.22:463][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Stools, compiling. 
+[2018.01.03-21.14.22:468][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Table_04, compiling. 
+[2018.01.03-21.14.22:472][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rug, compiling. 
+[2018.01.03-21.14.22:476][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Table_03, compiling. 
+[2018.01.03-21.14.22:480][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Electronics, compiling. 
+[2018.01.03-21.14.22:484][922]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Props_Chair_Ottoman, compiling. 
+[2018.01.03-21.14.23:357][922]TextureStreamingBuild: Display: Compiling optional shaders took 1.052 seconds.
+[2018.01.03-21.14.23:375][922]LogLevel: Display: Export Material TexCoord Scales took 0.019 seconds.
+[2018.01.03-21.14.23:391][922]TextureStreamingBuild: Display: Build Texture Streaming took 0.016 seconds.
+[2018.01.03-21.14.23:415][922]LightingResults: New page: Lighting Build - Jan 3, 2018, 11:14:23 AM
+[2018.01.03-21.14.23:423][922]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.03-21.14.23:426][922]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.03-21.14.23:426][922]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.03-21.14.23:426][922]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.03-21.14.23:426][922]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22960
+[2018.01.03-21.14.27:933][922]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.03-21.14.27:934][922]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.03-21.14.27:934][922]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.03-21.14.27:934][922]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.03-21.14.27:934][922]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.03-21.14.27:934][922]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.03-21.14.28:045][922]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.03-21.14.28:045][922]MapCheck: New page: DemoMap - Jan 3, 2018, 11:14:28 AM
+[2018.01.03-21.14.28:047][922]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.03-21.14.28:118][922]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 72.772ms to complete.
+[2018.01.03-21.14.28:140][922]LogEditorBuildUtils: Build time 0:06
+[2018.01.03-21.14.37:630][473]Job is a success!
+[2018.01.03-21.14.37:694][474]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2018.01.03-21.14.37:694][474]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.03-21.14.37:694][474]LogVolumetricLightmapImport:      BrickData 515x5x5 = 0.4Mb
+[2018.01.03-21.14.37:694][474]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.03-21.14.37:694][474]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2018.01.03-21.14.37:694][474]LogVolumetricLightmapImport:          1: 3.9% covering 6.3% of volume
+[2018.01.03-21.14.37:694][474]LogVolumetricLightmapImport:          2: 95.1% covering 2.4% of volume
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2018.01.03-21.14.38:447][474]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2018.01.03-21.14.38:645][474]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2018.01.03-21.14.38:645][474]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 512X256)
+[2018.01.03-21.14.38:645][474]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2018.01.03-21.14.38:645][474]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 1024X1024)
+[2018.01.03-21.14.38:684][474]Lightmass on DESKTOP-0I034II: 9.20 sec total, 183 ms importing, 37 ms setup, 2.12 sec photons, 6.83 sec processing, 0 ms extra exporting [280/280 mappings]. Threads: 2:08 min total, 1:05 min processing.
+[2018.01.03-21.14.38:702][474]LogStaticLightingSystem: Illumination: 15.2 sec (581 ms encoding lightmaps, 193 ms encoding shadowmaps)
+[2018.01.03-21.14.38:702][474]LogStaticLightingSystem: Lightmap texture memory:  8.5 MB (8.0 MB streaming, 0.5 MB non-streaming), 12 textures
+[2018.01.03-21.14.38:702][474]LogStaticLightingSystem: Shadowmap texture memory: 11.3 MB (10.7 MB streaming, 0.7 MB non-streaming), 4 textures
+[2018.01.03-21.14.38:942][474]DumpUnbuiltLightIteractions
+[2018.01.03-21.14.38:942][474]Lights with unbuilt interactions: 0
+[2018.01.03-21.14.38:942][474]
+[2018.01.03-21.14.38:942][474]Primitives with unbuilt interactions: 0
+[2018.01.03-21.14.38:950][475]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.03-21.14.38:950][475]MapCheck: New page: DemoMap - Jan 3, 2018, 11:14:38 AM
+[2018.01.03-21.14.39:019][475]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.776ms to complete.
+[2018.01.03-21.14.43:867][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ApartmentInterior/Materials/M_Apt_Wall_01" FILE="D:/Documents/Git/lonelyCart/Demo/Content/ApartmentInterior/Materials/M_Apt_Wall_01.uasset" SILENT=true
+[2018.01.03-21.14.43:878][ 30]LogSavePackage: Save=8.84ms
+[2018.01.03-21.14.43:878][ 30]LogSavePackage: Moving 'D:/Documents/Git/lonelyCart/Demo/Saved/M_Apt_Wall_01970B179F44F3793BAB1988802441FE5C.tmp' to 'D:/Documents/Git/lonelyCart/Demo/Content/ApartmentInterior/Materials/M_Apt_Wall_01.uasset'
+[2018.01.03-21.14.43:879][ 30]LogSavePackage: Display: Finished SavePackage D:/Documents/Git/lonelyCart/Demo/Content/ApartmentInterior/Materials/M_Apt_Wall_01.uasset
+[2018.01.03-21.14.46:016][286]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.03-21.14.46:025][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.03-21.14.46:025][286]PIE: New page: PIE session: DemoMap (Jan 3, 2018, 11:14:46 AM)
+[2018.01.03-21.14.46:025][286]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_DemoMap
+[2018.01.03-21.14.46:039][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013836s)
+[2018.01.03-21.14.46:040][286]LogAIModule: Creating AISystem for world DemoMap
+[2018.01.03-21.14.46:040][286]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2018.01.03-21.14.46:040][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/DemoMap.DemoMap to /Game/StarterContent/Maps/UEDPIE_0_DemoMap.DemoMap (0.014692s)
+[2018.01.03-21.14.46:071][286]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.03-21.14.46:083][286]LogInit: FAudioDevice initialized.
+[2018.01.03-21.14.46:112][286]LogLoad: Game class is 'DemoGameMode'
+[2018.01.03-21.14.46:116][286]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_DemoMap.DemoMap up for play (max tick rate 0) at 2018.01.03-16.14.46
+[2018.01.03-21.14.46:116][286]LogWorld: Bringing up level for play took: 0.003753
+[2018.01.03-21.14.46:118][286]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_DemoMap 0.941
+[2018.01.03-21.15.16:234][886]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-464.415 Y=-713.643 Z=275.166] for [FirstPersonProjectile_C]
+[2018.01.03-21.15.31:034][662]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=282.685 Y=-1426.529 Z=198.581] for [FirstPersonProjectile_C]
+[2018.01.03-21.16.49:495][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/DemoMap" FILE="D:/Documents/Git/lonelyCart/Demo/Content/StarterContent/Maps/DemoMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.03-21.16.49:837][ 63]LogSavePackage: Save=316.13ms
+[2018.01.03-21.16.49:837][ 63]LogSavePackage: Moving 'D:/Documents/Git/lonelyCart/Demo/Saved/DemoMap83EB681A4F67B6D4752CAB8F688242C7.tmp' to 'D:/Documents/Git/lonelyCart/Demo/Content/StarterContent/Maps/DemoMap.umap'
+[2018.01.03-21.16.49:839][ 63]LogSavePackage: Display: Finished SavePackage D:/Documents/Git/lonelyCart/Demo/Content/StarterContent/Maps/DemoMap.umap
+[2018.01.03-21.16.49:854][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/DemoMap_BuiltData" FILE="D:/Documents/Git/lonelyCart/Demo/Content/StarterContent/Maps/DemoMap_BuiltData.uasset" SILENT=true
+[2018.01.03-21.16.50:053][ 63]LogSavePackage: Save=195.99ms
+[2018.01.03-21.16.50:053][ 63]LogSavePackage: Moving 'D:/Documents/Git/lonelyCart/Demo/Saved/DemoMap_BuiltData1D3AA92942CBB1C85AA172AD0E5CCCD0.tmp' to 'D:/Documents/Git/lonelyCart/Demo/Content/StarterContent/Maps/DemoMap_BuiltData.uasset'
+[2018.01.03-21.16.50:055][ 63]LogSavePackage: Display: Finished SavePackage D:/Documents/Git/lonelyCart/Demo/Content/StarterContent/Maps/DemoMap_BuiltData.uasset

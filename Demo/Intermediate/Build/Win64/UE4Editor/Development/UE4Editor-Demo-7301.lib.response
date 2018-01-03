@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Demo-7301.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\Demo.cpp.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoCharacter.cpp.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoGameMode.cpp.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoHUD.cpp.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoProjectile.cpp.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\Demo.init.gen.cpp.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoCharacter.gen.cpp.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoGameMode.gen.cpp.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoHUD.gen.cpp.obj"
+"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoProjectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Demo\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Documents\Git\lonelyCart\Demo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Demo-7301.lib"
